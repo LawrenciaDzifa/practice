@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:psycup/contact.dart';
 import 'package:psycup/members.dart';
 import 'package:psycup/services.dart';
-import 'companies.dart';
 
 
 void main(){
